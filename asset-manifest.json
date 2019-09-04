@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/photographer-portfolio-react/static/css/main.991c5e9f.chunk.css",
+    "main.css": "/photographer-portfolio-react/static/css/main.13875d4c.chunk.css",
     "main.js": "/photographer-portfolio-react/static/js/main.bf3dfee1.chunk.js",
     "main.js.map": "/photographer-portfolio-react/static/js/main.bf3dfee1.chunk.js.map",
     "runtime~main.js": "/photographer-portfolio-react/static/js/runtime~main.e04b3d0f.js",
@@ -8,8 +8,8 @@
     "static/js/2.897b2a5c.chunk.js": "/photographer-portfolio-react/static/js/2.897b2a5c.chunk.js",
     "static/js/2.897b2a5c.chunk.js.map": "/photographer-portfolio-react/static/js/2.897b2a5c.chunk.js.map",
     "index.html": "/photographer-portfolio-react/index.html",
-    "precache-manifest.b4b789f3f3973235580e336dcf18b47e.js": "/photographer-portfolio-react/precache-manifest.b4b789f3f3973235580e336dcf18b47e.js",
+    "precache-manifest.f2b54d967d8af0de317c3d007e7e50de.js": "/photographer-portfolio-react/precache-manifest.f2b54d967d8af0de317c3d007e7e50de.js",
     "service-worker.js": "/photographer-portfolio-react/service-worker.js",
-    "static/css/main.991c5e9f.chunk.css.map": "/photographer-portfolio-react/static/css/main.991c5e9f.chunk.css.map"
+    "static/css/main.13875d4c.chunk.css.map": "/photographer-portfolio-react/static/css/main.13875d4c.chunk.css.map"
   }
 }

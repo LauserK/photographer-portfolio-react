@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e995068b35ba986915ad152fb4c58d2d",
+    "revision": "33905042f50fa3ce6d0e52fe93085d24",
     "url": "/photographer-portfolio-react/index.html"
   },
   {
-    "revision": "f8cbf815233a9f31d3e5",
-    "url": "/photographer-portfolio-react/static/css/main.991c5e9f.chunk.css"
+    "revision": "aeb951de9514815179fb",
+    "url": "/photographer-portfolio-react/static/css/main.13875d4c.chunk.css"
   },
   {
     "revision": "6c509e9f4811faeb4638",
     "url": "/photographer-portfolio-react/static/js/2.897b2a5c.chunk.js"
   },
   {
-    "revision": "f8cbf815233a9f31d3e5",
+    "revision": "aeb951de9514815179fb",
     "url": "/photographer-portfolio-react/static/js/main.bf3dfee1.chunk.js"
   },
   {
