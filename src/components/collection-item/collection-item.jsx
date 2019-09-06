@@ -11,7 +11,9 @@ export const CollectionItem = ({ item: { photo, title, description } }) => {
       ></div>
       <div className="collection__gallery__description">
         <h3 className="collection__gallery__title">{title}</h3>
-        <p className="collection__gallery__subcontent">{description}</p>
+        {
+          //<p className="collection__gallery__subcontent">{description}</p>
+        }
         <ButtonWithOutBorder>Watch</ButtonWithOutBorder>
       </div>
     </div>

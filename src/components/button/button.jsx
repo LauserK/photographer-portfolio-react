@@ -2,7 +2,7 @@ import React from "react";
 import "./button.scss";
 import iconSet from "../../assets/selection.json";
 import IcomoonReact from "icomoon-react";
-export const ButtonWithOutBorder = ({ children, dark }) => (
+export const ButtonWithOutBorder = ({ children, dark, white }) => (
   <button className={`button button-no-border ${dark ? null : "button-white"}`}>
     {children}{" "}
     <IcomoonReact
@@ -14,8 +14,12 @@ export const ButtonWithOutBorder = ({ children, dark }) => (
   </button>
 );
 
-export const ButtonWithOutBackground = ({ children, dark }) => (
-  <button className={`button button-no-bg ${dark ? null : "button-white"}`}>
+export const ButtonWithOutBackground = ({ children, dark, white }) => (
+  <button
+    className={`button button-no-bg ${dark ? null : "button-white"} ${
+      white ? "white" : null
+    }`}
+  >
     {children}{" "}
     <IcomoonReact
       iconSet={iconSet}

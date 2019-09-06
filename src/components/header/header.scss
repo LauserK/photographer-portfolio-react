@@ -26,6 +26,11 @@
     @media screen and (max-width: 960px) {
       margin: 0 0;
     }
+
+    @media screen and (max-width: 620px) {
+      flex-direction: column;
+      justify-content: center;
+    }
   }
 
   &__arrow {
@@ -37,6 +42,12 @@
     ul {
       display: flex;
       justify-content: space-between;
+
+      @media screen and (max-width: 620px) {
+        flex-direction: row;
+        justify-content: center;
+        margin-bottom: 1rem;
+      }
     }
   }
 
@@ -47,6 +58,10 @@
     cursor: pointer;
     font-weight: 300;
     letter-spacing: 2px;
+
+    &:nth-last-child(1) {
+      margin-right: 0px;
+    }
   }
 
   &__text {
@@ -65,10 +80,19 @@
     font-size: 5.5rem;
     letter-spacing: 15px;
     font-weight: 400;
+    font-family: "Roboto Condensed", sans-serif;
+
+    @media screen and (max-width: 620px) {
+      font-size: 2rem;
+    }
   }
 
   &__text--subtitle {
     text-transform: uppercase;
     font-weight: 300;
+
+    @media screen and (max-width: 620px) {
+      font-size: 1rem;
+    }
   }
 }

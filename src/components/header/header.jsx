@@ -43,7 +43,7 @@ export const Header = () => (
       </div>
     </div>
     <div className="header__text">
-      <h1 className="header__text--title">Kildare Lauser</h1>
+      <h1 className="header__text--title">John Doe</h1>
       <h2 className="header__text--subtitle">Photographer</h2>
     </div>
     <IcomoonReact
