@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/photographer-portfolio-react/static/css/main.13875d4c.chunk.css",
-    "main.js": "/photographer-portfolio-react/static/js/main.bf3dfee1.chunk.js",
-    "main.js.map": "/photographer-portfolio-react/static/js/main.bf3dfee1.chunk.js.map",
+    "main.css": "/photographer-portfolio-react/static/css/main.02b981a4.chunk.css",
+    "main.js": "/photographer-portfolio-react/static/js/main.ce464906.chunk.js",
+    "main.js.map": "/photographer-portfolio-react/static/js/main.ce464906.chunk.js.map",
     "runtime~main.js": "/photographer-portfolio-react/static/js/runtime~main.e04b3d0f.js",
     "runtime~main.js.map": "/photographer-portfolio-react/static/js/runtime~main.e04b3d0f.js.map",
-    "static/js/2.897b2a5c.chunk.js": "/photographer-portfolio-react/static/js/2.897b2a5c.chunk.js",
-    "static/js/2.897b2a5c.chunk.js.map": "/photographer-portfolio-react/static/js/2.897b2a5c.chunk.js.map",
+    "static/js/2.be742fbe.chunk.js": "/photographer-portfolio-react/static/js/2.be742fbe.chunk.js",
+    "static/js/2.be742fbe.chunk.js.map": "/photographer-portfolio-react/static/js/2.be742fbe.chunk.js.map",
     "index.html": "/photographer-portfolio-react/index.html",
-    "precache-manifest.f2b54d967d8af0de317c3d007e7e50de.js": "/photographer-portfolio-react/precache-manifest.f2b54d967d8af0de317c3d007e7e50de.js",
+    "precache-manifest.63557aa9591a92c9d4843ee4b17d7d52.js": "/photographer-portfolio-react/precache-manifest.63557aa9591a92c9d4843ee4b17d7d52.js",
     "service-worker.js": "/photographer-portfolio-react/service-worker.js",
-    "static/css/main.13875d4c.chunk.css.map": "/photographer-portfolio-react/static/css/main.13875d4c.chunk.css.map"
+    "static/css/main.02b981a4.chunk.css.map": "/photographer-portfolio-react/static/css/main.02b981a4.chunk.css.map"
   }
 }
